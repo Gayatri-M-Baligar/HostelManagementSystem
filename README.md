@@ -3,6 +3,12 @@ To manage hostel student admissions, room allocations, and fee payments. Functio
 adding student details, updating records, deleting students, and viewing current occupancy. Reports
 include students with pending fees, students in a particular room, and students admitted in a specific
 period.
+
+
+
+
+
+
 Database Structure:
 CREATE TABLE HostelStudents (
 StudentID INT PRIMARY KEY,
